@@ -1,0 +1,10 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: auth-service
+
+jwt:
+  secret: JWWNDUIDXAWI
+  expiartion: 86400
